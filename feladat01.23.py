@@ -18,4 +18,4 @@ o2=random.randrange(8, 21)
 
 print("1. ország: ", o1, "millió fő")
 print("2. orszég: ", o2, "millió fő")
-print("")
+print("Különbség: ", kulonbseg(o1, o2), "millió fő")
